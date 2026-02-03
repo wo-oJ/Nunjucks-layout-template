@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@hono/node-server": "^1.19.9",
+    "hono": "^4.11.7",
+    "nunjucks": "^3.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "typescript": "^5.9.3"
+  }
+}
